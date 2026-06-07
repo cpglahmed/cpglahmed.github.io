@@ -1,0 +1,138 @@
+{
+  "profile": {
+    "name": "Jane Doe",
+    "title": "Frontend Developer & UI Designer",
+    "tagline": "Crafting sun-soaked digital experiences from the Aegean coast.",
+    "avatar": "https://i.pravatar.cc/150?img=47",
+    "bio": "Hey there! I'm Jane, a frontend developer with 6+ years of experience building clean, user-first web applications. When I'm not pushing pixels, you'll find me sipping çay on a terrace overlooking the sea.",
+    "location": "Bodrum, Türkiye",
+    "email": "jane.doe@example.com",
+    "social": {
+      "github": "https://github.com",
+      "linkedin": "https://linkedin.com",
+      "twitter": "https://twitter.com",
+      "dribbble": "https://dribbble.com"
+    }
+  },
+  "skills": [
+    { "name": "HTML / CSS", "level": 95 },
+    { "name": "JavaScript (ES6+)", "level": 90 },
+    { "name": "React", "level": 85 },
+    { "name": "Vue.js", "level": 75 },
+    { "name": "Figma / UI Design", "level": 80 },
+    { "name": "Node.js", "level": 65 }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Aegean Rentals",
+      "category": "Web App",
+      "description": "A holiday villa booking platform with real-time availability, interactive map search, and multi-currency support.",
+      "tags": ["React", "Node.js", "Mapbox"],
+      "color": "#f9c5d1",
+      "icon": "fa-umbrella-beach",
+      "year": 2024,
+      "link": "#"
+    },
+    {
+      "id": 2,
+      "title": "Salty Kitchen",
+      "category": "E-commerce",
+      "description": "An artisanal food shop with product showcase, cart, and Stripe checkout. Focused on minimal, editorial UI.",
+      "tags": ["Vue.js", "Tailwind", "Stripe"],
+      "color": "#b5ead7",
+      "icon": "fa-lemon",
+      "year": 2023,
+      "link": "#"
+    },
+    {
+      "id": 3,
+      "title": "Drift Design System",
+      "category": "Design System",
+      "description": "A component library and style guide built for a SaaS startup. Covers 60+ components with dark mode support.",
+      "tags": ["Storybook", "CSS", "Figma"],
+      "color": "#c7ceea",
+      "icon": "fa-layer-group",
+      "year": 2023,
+      "link": "#"
+    },
+    {
+      "id": 4,
+      "title": "Coastal Analytics",
+      "category": "Dashboard",
+      "description": "A data visualization dashboard for a marine research institute. Live charts, filterable maps, CSV export.",
+      "tags": ["D3.js", "React", "REST API"],
+      "color": "#ffdac1",
+      "icon": "fa-chart-line",
+      "year": 2022,
+      "link": "#"
+    }
+  ],
+  "blog": [
+    {
+      "id": 1,
+      "title": "Why I Switched from Sass to CSS Custom Properties",
+      "date": "2024-05-12",
+      "category": "CSS",
+      "readTime": 5,
+      "excerpt": "After years of relying on Sass variables and mixins, I finally made the jump. Here's what I learned, what I miss, and what I'll never go back to.",
+      "cover": "https://picsum.photos/seed/css1/600/340"
+    },
+    {
+      "id": 2,
+      "title": "Building Accessible Forms Without Losing Your Mind",
+      "date": "2024-03-28",
+      "category": "Accessibility",
+      "readTime": 7,
+      "excerpt": "A11y doesn't have to be painful. I share the patterns I reuse across every project to keep forms inclusive and beautifully styled at the same time.",
+      "cover": "https://picsum.photos/seed/a11y2/600/340"
+    },
+    {
+      "id": 3,
+      "title": "The Slow Web: Designing for Intentional Browsing",
+      "date": "2024-01-15",
+      "category": "Design",
+      "readTime": 6,
+      "excerpt": "Inspired by slow travel and the Bodrum lifestyle, I explore how digital products can encourage presence over panic-scrolling.",
+      "cover": "https://picsum.photos/seed/slowweb3/600/340"
+    },
+    {
+      "id": 4,
+      "title": "Micro-interactions That Actually Matter",
+      "date": "2023-11-02",
+      "category": "UX",
+      "readTime": 4,
+      "excerpt": "Not all animations are created equal. I walk through five micro-interactions that earned genuine praise from users and how I built them.",
+      "cover": "https://picsum.photos/seed/ux4/600/340"
+    },
+    {
+      "id": 5,
+      "title": "My Minimal Dev Setup for Remote Work by the Sea",
+      "date": "2023-08-20",
+      "category": "Productivity",
+      "readTime": 3,
+      "excerpt": "A terrace, a good chair, and the right tooling. Here's exactly what's in my stack when working from Bodrum all summer long.",
+      "cover": "https://picsum.photos/seed/remote5/600/340"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Frontend Developer",
+      "company": "Nautilus Studio",
+      "period": "2022 — Present",
+      "desc": "Lead UI development for SaaS products. Architected the component system used across 3 client applications."
+    },
+    {
+      "role": "Frontend Developer",
+      "company": "Waveline Agency",
+      "period": "2019 — 2022",
+      "desc": "Built and maintained 20+ client websites. Owned the React migration of a legacy jQuery codebase."
+    },
+    {
+      "role": "Junior Developer",
+      "company": "Tide Interactive",
+      "period": "2018 — 2019",
+      "desc": "Developed landing pages and email campaigns. First exposure to performance optimization and cross-browser testing."
+    }
+  ]
+}
